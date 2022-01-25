@@ -87,8 +87,9 @@ DEFAULT CHARACTER SET = utf8;
 
 #### Publish the Data
 
-Please refer to this Kaggle location for the published dataset:
-https://www.kaggle.com/chuyuchen/midwest-cities-weather-data-2021
+Please refer to [this Kaggle location](https://www.kaggle.com/chuyuchen/midwest-cities-weather-data-2021) for the published dataset.  
+(https://www.kaggle.com/chuyuchen/midwest-cities-weather-data-2021)
+
 
 The timespan has been changed to a year (2021), and the dataset covers the top 5 midwest cities including Chicago, Detroit, Indianapolis, Columbus, and Milwaukee.
 
