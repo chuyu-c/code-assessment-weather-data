@@ -1,4 +1,4 @@
-# code-assessment-weather-data
+# Weather Data Generation
 
 
 Chuyu Chen  
