@@ -84,7 +84,7 @@ ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8;
 ```
 * Please also reference to DDL.txt for text file downloading.
-* [this subtext](subpro/subtext.md)
+* [this subtext](weather-data-generation/DDL.sql)
 
 #### Publish the Data
 
