@@ -20,8 +20,7 @@ select * from pubilc.weather_daily_table order by weather_date, location;
 7. Optional not required bonus: Publish the data to Tableau public or similar location.
 
 
-#### Link to the [GCS Location](https://console.cloud.google.com/storage/browser/weather-data-cc). 
-https://console.cloud.google.com/storage/browser/weather-data-cc
+#### Link to the [GCS Location](https://console.cloud.google.com/storage/browser/weather-data-cc): https://console.cloud.google.com/storage/browser/weather-data-cc
 
 #### Link to [Google BigQuery](https://console.cloud.google.com/bigquery?referrer=search&authuser=1&project=nimble-net-337716&supportedpurview=project&ws=!1m14!1m3!3m2!1snimble-net-337716!2spublic!1m4!4m3!1snimble-net-337716!2spublic!3sweather_daily_table!1m4!1m3!1snimble-net-337716!2sbquxjob_225c51ca_17e8ec9afa7!3sus-central1&page=dataset&d=public&p=nimble-net-337716)
 
