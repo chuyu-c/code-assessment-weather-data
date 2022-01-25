@@ -25,9 +25,10 @@ select * from pubilc.weather_daily_table order by weather_date, location;
 #### Link to [Google BigQuery](https://console.cloud.google.com/bigquery?referrer=search&authuser=1&project=nimble-net-337716&supportedpurview=project&ws=!1m14!1m3!3m2!1snimble-net-337716!2spublic!1m4!4m3!1snimble-net-337716!2spublic!3sweather_daily_table!1m4!1m3!1snimble-net-337716!2sbquxjob_225c51ca_17e8ec9afa7!3sus-central1&page=dataset&d=public&p=nimble-net-337716)
 
 ####
+<br />
 
 
-#### DDl for the table loaded in Google BigQuery
+### DDL for the table loaded in Google BigQuery
 
 Google BigQuery has no primary key or unique constraints. Below is the DDL for Google BigQuery:
 ```
@@ -86,7 +87,7 @@ DEFAULT CHARACTER SET = utf8;
 ```
 * Please also reference to [DDL.sql](https://github.com/chuyu-c/weather-data-generation/blob/main/DDL.sql) for text file downloading.
 
-#### Publish the Data
+### Publish the Data
 
 Please refer to [this Kaggle location](https://www.kaggle.com/chuyuchen/midwest-cities-weather-data-2021) for the published dataset.  
 (https://www.kaggle.com/chuyuchen/midwest-cities-weather-data-2021)
@@ -95,7 +96,7 @@ Please refer to [this Kaggle location](https://www.kaggle.com/chuyuchen/midwest-
 * The timespan has been changed to a year (2021), and the dataset covers the top 5 midwest cities including Chicago, Detroit, Indianapolis, Columbus, and Milwaukee.
 
 
-#### References:
+### References:
 
 * https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-csv
 * https://googleapis.dev/python/storage/latest/index.html
