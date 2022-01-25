@@ -1,8 +1,8 @@
 # code-assessment-weather-data
 
 
-Chuyu Chen
-January 25, 2022
+Chuyu Chen  
+January 25, 2022  
 
 Get any 7 consecutive days of weather data for your city (or any US city of your choice), as well as weather from Detroit, Michigan for the same period. The script should have the ability to run for a date. Have it load to S3/Google Cloud Storage (GCS) location. Share that location and the github code repo.
 
