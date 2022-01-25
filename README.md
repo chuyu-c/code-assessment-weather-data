@@ -83,8 +83,7 @@ CREATE TABLE IF NOT EXISTS `public`.`weather_daily_table` (
 ENGINE = InnoDB
 DEFAULT CHARACTER SET = utf8;
 ```
-* Please also reference to DDL.txt for text file downloading.
-* [this subtext](weather-data-generation/DDL.sql)
+* Please also reference to [DDL.sql](weather-data-generation/DDL.sql) for text file downloading.
 
 #### Publish the Data
 
