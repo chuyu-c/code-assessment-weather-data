@@ -24,3 +24,30 @@ __References:__
 * https://cloud.google.com/bigquery/docs/loading-data-cloud-storage-csv
 * https://googleapis.dev/python/storage/latest/index.html
 * API: https://www.visualcrossing.com/weather-data
+
+
+__DDl for the table loaded in Google BigQuery__
+
+Google BigQuery has no primary key or unique constraints. Below is the DDL for Google BigQuery:
+```
+CREATE TABLE `nimble-net-337716.public.weather_daily_table`
+(
+  City STRING,
+  State STRING,
+  Country STRING,
+  name STRING,
+  datetime DATETIME,
+  tempmax FLOAT64,
+  tempmin FLOAT64,
+  temp FLOAT64,
+  feelslikemax FLOAT64,
+  feelslikemin FLOAT64,
+  feelslike FLOAT64,
+  conditions STRING,
+  description STRING
+);
+```
+
+In general, with the primary key or unique constraints, the DDL would be as below:
+```
+```
