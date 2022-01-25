@@ -91,7 +91,7 @@ Please refer to [this Kaggle location](https://www.kaggle.com/chuyuchen/midwest-
 (https://www.kaggle.com/chuyuchen/midwest-cities-weather-data-2021)
 
 
-The timespan has been changed to a year (2021), and the dataset covers the top 5 midwest cities including Chicago, Detroit, Indianapolis, Columbus, and Milwaukee.
+* The timespan has been changed to a year (2021), and the dataset covers the top 5 midwest cities including Chicago, Detroit, Indianapolis, Columbus, and Milwaukee.
 
 
 #### References:
